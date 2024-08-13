@@ -1,0 +1,15 @@
+C:\Users\inaki\OneDrive - frt.utn.edu.ar\3er Año\PAV\Unidad 5\TP Final_Completo - 56962\Pav.TpFinal.Dominio\bin\Debug\net8.0\Pav.TpFinal.Dominio.deps.json
+C:\Users\inaki\OneDrive - frt.utn.edu.ar\3er Año\PAV\Unidad 5\TP Final_Completo - 56962\Pav.TpFinal.Dominio\bin\Debug\net8.0\Pav.TpFinal.Dominio.dll
+C:\Users\inaki\OneDrive - frt.utn.edu.ar\3er Año\PAV\Unidad 5\TP Final_Completo - 56962\Pav.TpFinal.Dominio\bin\Debug\net8.0\Pav.TpFinal.Dominio.pdb
+C:\Users\inaki\OneDrive - frt.utn.edu.ar\3er Año\PAV\Unidad 5\TP Final_Completo - 56962\Pav.TpFinal.Dominio\bin\Debug\net8.0\Pav.TpFinal.Infraestructura.Transversal.dll
+C:\Users\inaki\OneDrive - frt.utn.edu.ar\3er Año\PAV\Unidad 5\TP Final_Completo - 56962\Pav.TpFinal.Dominio\bin\Debug\net8.0\Pav.TpFinal.Infraestructura.Transversal.pdb
+C:\Users\inaki\OneDrive - frt.utn.edu.ar\3er Año\PAV\Unidad 5\TP Final_Completo - 56962\Pav.TpFinal.Dominio\obj\Debug\net8.0\Pav.TpFinal.Dominio.csproj.AssemblyReference.cache
+C:\Users\inaki\OneDrive - frt.utn.edu.ar\3er Año\PAV\Unidad 5\TP Final_Completo - 56962\Pav.TpFinal.Dominio\obj\Debug\net8.0\Pav.TpFinal.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inaki\OneDrive - frt.utn.edu.ar\3er Año\PAV\Unidad 5\TP Final_Completo - 56962\Pav.TpFinal.Dominio\obj\Debug\net8.0\Pav.TpFinal.Dominio.AssemblyInfoInputs.cache
+C:\Users\inaki\OneDrive - frt.utn.edu.ar\3er Año\PAV\Unidad 5\TP Final_Completo - 56962\Pav.TpFinal.Dominio\obj\Debug\net8.0\Pav.TpFinal.Dominio.AssemblyInfo.cs
+C:\Users\inaki\OneDrive - frt.utn.edu.ar\3er Año\PAV\Unidad 5\TP Final_Completo - 56962\Pav.TpFinal.Dominio\obj\Debug\net8.0\Pav.TpFinal.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\inaki\OneDrive - frt.utn.edu.ar\3er Año\PAV\Unidad 5\TP Final_Completo - 56962\Pav.TpFinal.Dominio\obj\Debug\net8.0\Pav.TpFi.1A72C626.Up2Date
+C:\Users\inaki\OneDrive - frt.utn.edu.ar\3er Año\PAV\Unidad 5\TP Final_Completo - 56962\Pav.TpFinal.Dominio\obj\Debug\net8.0\Pav.TpFinal.Dominio.dll
+C:\Users\inaki\OneDrive - frt.utn.edu.ar\3er Año\PAV\Unidad 5\TP Final_Completo - 56962\Pav.TpFinal.Dominio\obj\Debug\net8.0\refint\Pav.TpFinal.Dominio.dll
+C:\Users\inaki\OneDrive - frt.utn.edu.ar\3er Año\PAV\Unidad 5\TP Final_Completo - 56962\Pav.TpFinal.Dominio\obj\Debug\net8.0\Pav.TpFinal.Dominio.pdb
+C:\Users\inaki\OneDrive - frt.utn.edu.ar\3er Año\PAV\Unidad 5\TP Final_Completo - 56962\Pav.TpFinal.Dominio\obj\Debug\net8.0\ref\Pav.TpFinal.Dominio.dll
